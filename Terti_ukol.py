@@ -5,5 +5,4 @@ def reverse_string(str):
     return str1 
      
 str = input();   
-print(str)  
 print(reverse_string(str)) 
